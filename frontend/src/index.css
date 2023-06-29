@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: 'Sofia Sans', sans-serif;
+  /* background-color: rgb(231, 255, 255); */
+}
